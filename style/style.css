@@ -1,0 +1,41 @@
+#navcolor {
+    background-color: hsl(80, 70%, 60%);
+}
+
+.medium-image {
+    width: 300px;
+  }
+
+#color2 {
+    background-color: 	hsl(346, 100%, 73%);
+}
+
+#color3 {
+    background-color: 	hsl(286, 100%, 73%);
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color:hsl(80, 70%, 60%);
+}
+
+h2 {
+    font-family: 'Lobster', cursive;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0, 6px, 6px, rgba(0, 0, 0, 0.23); 
+}
+
+footer {
+    background-color: hsl(80, 70%, 55%);
+    height: 45px;
+    padding: 10px;
+}
+
+.content-card {
+    height: 500px;
+    width: 85%;
+    background-color: rgb(192, 188, 188);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23); 
+    margin: 10px;
+    padding: 40px 60px 40px 60px;
+    align-items: center;
+}
